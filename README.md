@@ -1,2 +1,2 @@
 # Python Game
-Python Game Project
+Python Game Project - Practicing Python For Fun
